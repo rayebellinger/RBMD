@@ -6,7 +6,43 @@
 
 ---
 
-## 1. Bottom line
+## 0. Revised after Raye's direction (same day)
+
+**Raye's direction:** consistency with the first five books and reader interest matter more than whether a reader can solve the mystery early. Book Six should keep the series beats. What matters is **how Wade goes about it and how the reader helps him.**
+
+That changes my recommendation. The series follows a "reader-ahead" design: the reader holds a piece of the answer, and the pleasure is watching Wade's method close the gap. I no longer recommend hiding the source or breaking the pattern. Sections 1–7 below stay as the record of the first-pass review. Where they conflict with this section, this section governs.
+
+### What makes the reader-ahead design work, and where it sagged
+
+- **It works when the reader and Wade each hold a different piece.** The reader knows *where* (the tub, the bowl, the grille). Wade brings *what it means*: a medical nuance the reader didn't have, such as "otherwise normal," a monitor counting the mother's pulse, a cool kiln. The reader leans in because they're waiting for Wade to reach what they've seen, and Wade still teaches them something when he gets there.
+- **It sags when Wade stops detecting.**
+  - In *The Reentry*, Chs 15–27 (about a third of the book) add nothing new to the case. Wade waits on institutions and on LANTERN's return.
+  - LANTERN also states most of the answer in Ch 1, so the machine detects instead of Wade.
+  - Readers who called it "too easy" were probably reacting to this stall, not to the early solve.
+
+### Rules for Book Six inside the series beats
+
+1. **Keep the beats.** Use the cold open from the victim's side (it can show the van), the opening showcase of Wade's skill, LANTERN flagging the pattern, Wade's own mistake, a community set piece, the M&M conference, and LANTERN's teaser for the next book.
+2. **Give the reader one piece and Wade a different one.**
+   - **The reader's piece:** the van. The cold open shows someone being made room for. The reader knows the ride matters before anyone at Laurel Fork does.
+   - **Wade's piece:** the medicine.
+     - A pulse-oximeter that reads 98% on a patient who looks wrong (it can't tell carbon monoxide from oxygen).
+     - The headache that lifts on days off.
+     - The one rider in the front seat who stays well.
+     - The dog that got sick first.
+   - The reader helps with *where*, and Wade teaches *what*.
+3. **Give Wade a signature question that cracks it,** as in earlier books: "What are you taking to feel better?" (Book 1) and "What does a night look like?" (Book 5). For Book Six: **"How did you get here?"** Triage records mode of arrival, and nobody types "the county van." Pair it with the series' usual chart phrase that answers the question before anyone asks, such as *"Arrived by: private vehicle."*
+4. **Wade detects in every chapter.** No long institutional pause. Each chapter he sits down with someone, asks a question, or notices something. LANTERN confirms and scales what he finds. LANTERN doesn't open the case by announcing it.
+5. **Keep the reader worried about a person, not a solution.** The reader knows the van is still running. The unlisted rider, and who is booked on the next run, are the ticking clock. That suspense survives an early solve.
+6. **One surprise Wade earns.** Keep the moving placard, not to fool the reader, but as the moment Wade's attention catches something the reader missed (the county pulled the wrong van). The reader-ahead design gets stronger when Wade gets one step ahead once.
+7. **Don't repeat *Common Ground*'s method in a new costume.** The issue is freshness, not solvability.
+   - Use a new town.
+   - Give the "people who stayed well" insight to someone other than Inez.
+   - Keep the recovery act short.
+
+---
+
+## 1. Bottom line (first-pass review)
 
 1. **The Reentry is easy because it was built not to be a mystery.** The locked Open Items say: *"It is not a diagnostic mystery. It is a systems death."* The answer (the pharmacy closes at five and nobody calls) is shown in the Prologue, stated by LANTERN in Chapter 1, used as chapter titles in the table of contents ("Callbacks," "Closes at Five," "Open Late") and printed in the jacket copy. A reader has it by about 5% of the book. The Shaping Suggestions had set the opposite rule: *"the answer is not given away in Chapter 1."*
 2. **It isn't only The Reentry.** All five books run on dramatic irony: the reader sees the cause before Wade does. Attentive readers solve every book in roughly the first quarter (table below). That approach has worked for the series because the books are carried by character, ethics and danger. But if Book Six is meant to be a mystery, it needs a different engine, not a better-hidden version of the same one.
